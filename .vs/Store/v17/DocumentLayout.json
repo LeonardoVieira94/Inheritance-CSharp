@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\projetos\\Store\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF353DA-3213-4194-8AD0-3F07EF592FAB}|Store\\Store.csproj|g:\\projetos\\store\\store\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AF353DA-3213-4194-8AD0-3F07EF592FAB}|Store\\Store.csproj|solutionrelative:store\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF353DA-3213-4194-8AD0-3F07EF592FAB}|Store\\Store.csproj|g:\\projetos\\store\\store\\entities\\importedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AF353DA-3213-4194-8AD0-3F07EF592FAB}|Store\\Store.csproj|solutionrelative:store\\entities\\importedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF353DA-3213-4194-8AD0-3F07EF592FAB}|Store\\Store.csproj|g:\\projetos\\store\\store\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AF353DA-3213-4194-8AD0-3F07EF592FAB}|Store\\Store.csproj|solutionrelative:store\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF353DA-3213-4194-8AD0-3F07EF592FAB}|Store\\Store.csproj|g:\\projetos\\store\\store\\entities\\usedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AF353DA-3213-4194-8AD0-3F07EF592FAB}|Store\\Store.csproj|solutionrelative:store\\entities\\usedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsedProduct.cs",
+              "DocumentMoniker": "G:\\projetos\\Store\\Store\\Entities\\UsedProduct.cs",
+              "RelativeDocumentMoniker": "Store\\Entities\\UsedProduct.cs",
+              "ToolTip": "G:\\projetos\\Store\\Store\\Entities\\UsedProduct.cs",
+              "RelativeToolTip": "Store\\Entities\\UsedProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T01:40:32.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImportedProduct.cs",
+              "DocumentMoniker": "G:\\projetos\\Store\\Store\\Entities\\ImportedProduct.cs",
+              "RelativeDocumentMoniker": "Store\\Entities\\ImportedProduct.cs",
+              "ToolTip": "G:\\projetos\\Store\\Store\\Entities\\ImportedProduct.cs",
+              "RelativeToolTip": "Store\\Entities\\ImportedProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAACmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T01:37:08.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "G:\\projetos\\Store\\Store\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Store\\Entities\\Product.cs",
+              "ToolTip": "G:\\projetos\\Store\\Store\\Entities\\Product.cs",
+              "RelativeToolTip": "Store\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T01:33:38.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\projetos\\Store\\Store\\Program.cs",
+              "RelativeDocumentMoniker": "Store\\Program.cs",
+              "ToolTip": "G:\\projetos\\Store\\Store\\Program.cs",
+              "RelativeToolTip": "Store\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T01:29:59.611Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
